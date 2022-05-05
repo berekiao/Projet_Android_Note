@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#efd807"
+    tools:context=".MainActivity">
+
+    <ListView
+        android:id="@+id/maliste"
+        android:layout_width="match_parent"
+        android:layout_height="499dp"
+        android:divider="@android:color/holo_green_dark"
+        android:dividerHeight="2dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/ajoutNote"
+        android:layout_width="wrap_content"
+        android:layout_height="96dp"
+        android:backgroundTint="@android:color/holo_green_dark"
+        android:text="+"
+        android:textColor="#FFFF8D"
+        android:textSize="34sp"
+        android:translationX="150sp"
+        android:translationY="498sp"
+        app:cornerRadius="50dp"
+
+        tools:ignore="MissingConstraints,TextContrastCheck,TextContrastCheck,TextContrastCheck" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

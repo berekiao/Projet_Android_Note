@@ -1,0 +1,22 @@
+{
+  "distraction":
+  [
+    {
+      "titre": "Membres du groupe",
+      "details": "Gautier , Ketsia , Obed"
+    },
+    {
+      "titre": "Présentation Gautier",
+      "details": "Je m'appel Gautier HOUNKPEVI, etudiant en licence 3, suis développeur mobile. Mon sport préféré est le football. En dehors de la programmation, je suis basiste."
+
+    },
+    {
+      "titre": "Présentation Ketsia",
+      "details": "Je m'appel Ketsia TOZO, etudiante en licence 3, suis analyste programmeur. Je fais le commerce qui est pour moi une source de revenu à part mon métier de programmeur.e m'appel Ketsia TOZO, , suis analyste programmeur. Je fais le commerce qui est pour moi une source de revenu à part mon métier de programmeur."
+    },
+    {
+      "titre": "Présentation Obed",
+      "details": "Je m'appel Obed AHOUANDJINOU, etudiant en licence 3, suis administrateur de BD. En tant que basketteur, j'aime également le football. "
+    }
+  ]
+}
